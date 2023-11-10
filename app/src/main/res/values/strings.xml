@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">IMDb TOP 250 MOVIES</string>
+    <string name="film_name">Film</string>
+    <string name="description">Sinopis</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Ananda Ageng Afrizal</string>
+    <string name="nim">326021000325</string>
+    <string name="email">agengafrial@std.unissula.ac.id</string>
+
+    <string-array name="data_name">
+        <item>1. The Shawshank Redemption</item>
+        <item>2. The Godfather</item>
+        <item>3. The Dark Knight</item>
+        <item>4. The Godfather Part II</item>
+        <item>5. 12 Angry Men</item>
+        <item>6. Schindler\'s List</item>
+        <item>7. The Lord of the Rings: The Return of the King</item>
+        <item>8. Pulp Fiction</item>
+        <item>9. Lord of the Rings: The Fellowship of the Ring</item>
+        <item>10. The Good, the Bad and the Ugly</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Tahun Rilis : 1994\nDurasi : 2Jam 22menit\nSertifikasi : 15\nRating 9.3  </item>
+        <item> Tahun Rilis : 1972\nDurasi : 2Jam 55menit\nSertifikasi : 15\nRating 9.2  </item>
+        <item> Tahun Rilis : 2008\nDurasi : 2Jam 32menit\nSertifikasi : 12A\nRating 9.0  </item>
+        <item> Tahun Rilis : 1974\nDurasi : 3Jam 22menit\nSertifikasi : X\nRating 9.0  </item>
+        <item> Tahun Rilis : 1957\nDurasi : 1Jam 36menit\nSertifikasi : U\nRating 9.0  </item>
+        <item> Tahun Rilis : 1993\nDurasi : 3Jam 15menit\nSertifikasi : 15\nRating 9.0  </item>
+        <item> Tahun Rilis : 2003\nDurasi : 3Jam 22menit\nSertifikasi : 12A\nRating 9.0  </item>
+        <item> Tahun Rilis : 1994\nDurasi : 2Jam 34menit\nSertifikasi : 18\nRating 8.9  </item>
+        <item> Tahun Rilis : 2001\nDurasi : 2Jam 58menit\nSertifikasi : PG\nRating 8.8  </item>
+        <item> Tahun Rilis : 1966\nDurasi : 2Jam 28menit\nSertifikasi : 18\nRating 8.8  </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tsrr</item>
+        <item>@drawable/tgf</item>
+        <item>@drawable/tdk</item>
+        <item>@drawable/tgff2</item>
+        <item>@drawable/orangmarah</item>
+        <item>@drawable/sl</item>
+        <item>@drawable/lotr</item>
+        <item>@drawable/pf</item>
+        <item>@drawable/lotr9</item>
+        <item>@drawable/thegbu</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>
+            Film ini mengisahkan tentang seorang banker yang bernama Andy Dufresne, yang diperankan oleh Tim Robbins.
+            Andy dituduh secara salah melakukan pembunuhan terhadap istri dan kekasihnya, dan akhirnya dihukum penjara
+            seumur hidup di Shawshank State Penitentiary. Meskipun dia menyatakan bahwa dia tidak bersalah, Andy harus
+            beradaptasi dengan kehidupan di penjara.
+            Selama waktu di penjara, Andy membentuk persahabatan dengan seorang narapidana bernama Ellis "Red" Redding,
+            yang diperankan oleh Morgan Freeman. Red adalah tahanan yang sudah lama mendekam di penjara dan menjadi narator
+            dalam cerita ini. Andy, dengan kecerdasan dan keterampilan keuangan yang luar biasa, memberikan berbagai kontribusi
+            positif dalam penjara tersebut. Dia membantu pihak penjara dengan berbagai proyek keuangan, termasuk membantu petugas
+            pajak dan menyusun keuangan penjara.
+            Kisah ini berkembang dengan dramatis ketika Andy mencoba membuktikan bahwa dia tidak bersalah dan pada
+            akhirnya menemukan kebenaran tentang siapa yang sebenarnya melakukan kejahatan tersebut.
+            Di tengah perjalanan hidup di dalam penjara, persahabatan antara Andy dan Red menjadi pusat cerita,
+            memberikan pesan kuat tentang harapan, kesetiaan, dan keberanian di tengah penderitaan.
+            Tanpa memberikan terlalu banyak bocoran, "The Shawshank Redemption" menyajikan cerita yang memukau,
+            penuh emosi, dan penuh dengan kejutan. Film ini berhasil meraih banyak penghargaan dan mendapat pengakuan
+            luas karena penyutradaraan yang brilian, skenario yang kuat, serta penampilan yang luar biasa dari para pemeran utamanya.</item>
+        <item>
+            "The Godfather" adalah sebuah film klasik yang dirilis pada tahun 1972, disutradarai oleh Francis Ford Coppola.
+            Film ini mengisahkan keluarga mafia Italia-Amerika, keluarga Corleone, yang dipimpin oleh Don Vito Corleone
+            (diperankan oleh Marlon Brando). Don Corleone adalah seorang pemimpin yang bijak namun penuh intrik di dunia kejahatan.
+            Sinopsis singkatnya adalah ketika Don Corleone menolak terlibat dalam perdagangan narkoba, hal ini memicu serangkaian
+            peristiwa yang mengarah pada serangkaian konflik di antara keluarga mafia bersaing. Film ini menggambarkan drama keluarga, kekuasaan, dan pengorbanan, dengan Michael Corleone (diperankan oleh Al Pacino) yang awalnya tidak ingin terlibat dalam urusan keluarga, akhirnya terpaksa mengambil alih kepemimpinan setelah ayahnya diserang.
+            "The Godfather" dianggap sebagai salah satu film terbaik dalam sejarah perfilman, dengan kekuatan cerita,
+            karakter yang mendalam, dan penyutradaraan yang brilian.
+        </item>
+        <item>
+            "The Dark Knight" adalah film superhero yang disutradarai oleh Christopher Nolan. Film ini merupakan sekuel dari
+            "Batman Begins" dan merupakan bagian dari trilogi Batman Nolan. Sinopsis singkatnya adalah sebagai berikut:
+            Batman, yang diperankan oleh Christian Bale, bersatu dengan Jaksa Gotham, Harvey Dent (Aaron Eckhart),
+            dan Komisaris James Gordon (Gary Oldman) untuk memberantas kejahatan di kota. Namun, segalanya berubah
+            ketika muncul Joker (Heath Ledger), seorang penjahat gila yang tidak dapat diprediksi. Joker berusaha
+            menciptakan kekacauan di Gotham City dengan memaksa Batman menghadapi pilihan sulit antara mengikuti
+            aturan atau menjadi simbol kekacauan yang diinginkan oleh Joker. Dalam perjalanan ini, Harvey Dent
+            mengalami tragedi yang mengubahnya menjadi Two-Face, membawa Gotham ke ambang kehancuran moral.
+            "The Dark Knight" mengeksplorasi konflik moral, keadilan, dan pengorbanan dalam kisah superhero yang gelap dan kompleks.
+        </item>
+        <item>
+            "The Godfather Part II" merupakan sekuel dari film "The Godfather" yang legendaris. Disutradarai oleh Francis
+            Ford Coppola, film ini mengisahkan perjalanan Michael Corleone (diperankan oleh Al Pacino) sebagai pemimpin
+            mafia yang berusaha memperluas kekayaan dan kekuasaannya. Sementara itu, cerita juga melibatkan flashback ke
+            masa muda Vito Corleone (diperankan oleh Robert De Niro), ayah Michael, yang memperlihatkan perjuangan dan
+            transformasinya menjadi seorang don. Dengan konflik internal dan eksternal yang kompleks, film ini
+            mengeksplorasi tema kekuasaan, pengkhianatan, dan harga yang harus dibayar dalam dunia kejahatan.
+            "The Godfather Part II" dianggap sebagai salah satu karya terbaik dalam sejarah perfilman dengan pujian
+            untuk skenario briliannya, penampilan aktor yang luar biasa, dan penyutradaraan yang mengesankan.
+        </item>
+        <item>
+            "12 Angry Men" adalah sebuah film tahun 1957 yang disutradarai oleh Sidney Lumet. Ceritanya berfokus pada
+            deliberasi sebuah juri yang terdiri dari 12 pria yang harus memutuskan nasib seorang terdakwa yang dituduh
+            melakukan pembunuhan. Sebagian besar juri awalnya yakin akan kesalahan terdakwa, namun satu anggota juri
+            (Juror 8, dimainkan oleh Henry Fonda) mempertanyakan bukti dan meragukan kesimpulan mereka. Selama diskusi
+            yang intens di ruang juri, ketidakpastian dan perbedaan pendapat muncul, mengungkapkan ketidakadilan sistem
+            peradilan dan aspek-aspek manusiawi di balik pengambilan keputusan hukum.
+        </item>
+        <item>
+            "Schindler's List" adalah film drama sejarah yang disutradarai oleh Steven Spielberg. Berdasarkan kisah nyata,
+            film ini mengikuti perjalanan Oskar Schindler, seorang pengusaha Jerman yang awalnya mempekerjakan orang Yahudi
+            selama Holocaust. Melalui perubahan moralnya, Schindler berusaha menyelamatkan nyawa lebih dari 1.000 orang
+            Yahudi dengan mempekerjakan mereka di pabriknya. Film ini menggambarkan penderitaan dan kekejaman Holocaust,
+            sambil menyoroti kebaikan dan keberanian yang dapat muncul di tengah-tengah kegelapan. "Schindler's List"
+            meraih banyak penghargaan, termasuk tujuh Penghargaan Akademi.
+        </item>
+        <item>
+            "The Lord of the Rings: The Return of the King" adalah kelanjutan epik dari trilogi "The Lord of the Rings"
+            karya J.R.R. Tolkien. Ceritanya berkisar pada perjuangan Frodo Baggins untuk menghancurkan Cincin Kekuasaan
+            yang jahat. Dalam "The Return of the King," Frodo dan Samwise Gamgee terus melangkah menuju Gunung Mordor,
+            sementara Aragorn, Legolas, Gimli, dan sekutu mereka bersiap untuk pertempuran besar di Minas Tirith.
+            Pertarungan antara kekuatan kegelapan dan persekutuan yang terdiri dari manusia, elf, dan kerdil mencapai
+            puncaknya dalam pertarungan epik yang menentukan nasib Seluruh Bumi Tengah. Cerita ini mengeksplorasi tema
+            kepahlawanan, pengorbanan, dan kekuatan persatuan dalam menghadapi kegelapan yang mengancam untuk memerintah dunia.
+        </item>
+        <item>
+            "Pulp Fiction" adalah film kultus karya Quentin Tarantino yang mengisahkan kisah-kisah terkait kehidupan
+            kriminal di Los Angeles. Diceritakan melalui serangkaian adegan non-linear, film ini mengikuti beberapa
+            karakter yang terlibat dalam kegiatan kejahatan seperti pencurian, pertarungan bawah tanah, dan pemerasan.
+            Penuh dengan dialog berkelas tinggi, kejutan tak terduga, dan kekerasan yang stilistik, "Pulp Fiction"
+            menjadi terkenal karena pengaruhnya yang besar dalam sinema independen dan gaya penceritaan yang inovatif.
+        </item>
+        <item>
+            "The Lord of the Rings: The Fellowship of the Ring" adalah film epik fantasi yang disutradarai oleh Peter Jackson.
+            Ceritanya berpusat pada perjalanan Frodo Baggins, seorang hobbit, yang ditugaskan untuk menghancurkan Cincin
+            Kekuasaan jahat di Gunung Doom. Frodo bersama dengan teman-temannya membentuk persekutuan yang terdiri dari
+            berbagai ras, seperti manusia, elf, dwarf, dan penyihir. Mereka bersama-sama membentuk The Fellowship of
+            the Ring dan berusaha untuk melewati Tanah Tengah yang penuh bahaya. Sementara itu, kekuatan jahat Sauron
+            dan sekutunya terus mengejar mereka untuk merebut kembali Cincin. Petualangan epik ini penuh dengan pertempuran,
+            persahabatan, dan pengorbanan yang menggugah hati.
+        </item>
+        <item>
+            Pada tahun 1862 selama perang saudara yang terjadi di Amerika, tiga orang pemburu hadiah sayembara berusaha
+            membunuh bandit Meksiko, Tuco Ramirez (The Ugly). Namun, Tuco berhasil lolos dan membunuh dua di antaranya
+            serta melukai pemburu ketiga. Sementara itu, Sentenza (The Bad) menginterogasi mantan prajurit Konfederasi
+            Stevens tentang seorang pelarian yang menyebut dirinya "Bill Carson". Interogasi diakhiri dengan Sentenza
+            membunuh Stevens dan mendapat bayaran dari sang majikan. Di lain tempat, sekelompok pemburu menyergap Tuco
+            untuk diserahkan pada pihak berwajib agar mendapat hadiah. Mereka semua terkejut oleh kedatangan Blondie
+            (The Good), penembak tanpa nama yang menantang kelompok pembunuh untuk melakukan duel pistol.
+            Setelah melalui serangkaian kejadian yang membahayakan, ketiganya pun dipertemukan oleh takdir mengejutkan.
+        </item>
+    </string-array>
+
+
+
+
+</resources>
